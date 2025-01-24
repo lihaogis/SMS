@@ -1,1 +1,1 @@
-# SMS
+# SMS（Simple Map Server）
